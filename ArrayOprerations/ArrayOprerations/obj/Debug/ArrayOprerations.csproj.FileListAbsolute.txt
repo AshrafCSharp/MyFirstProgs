@@ -1,0 +1,6 @@
+D:\ProgramData\C#\ArrayOprerations\ArrayOprerations\bin\Debug\ArrayOprerations.exe.config
+D:\ProgramData\C#\ArrayOprerations\ArrayOprerations\obj\Debug\ArrayOprerations.csprojResolveAssemblyReference.cache
+D:\ProgramData\C#\ArrayOprerations\ArrayOprerations\bin\Debug\ArrayOprerations.exe
+D:\ProgramData\C#\ArrayOprerations\ArrayOprerations\bin\Debug\ArrayOprerations.pdb
+D:\ProgramData\C#\ArrayOprerations\ArrayOprerations\obj\Debug\ArrayOprerations.exe
+D:\ProgramData\C#\ArrayOprerations\ArrayOprerations\obj\Debug\ArrayOprerations.pdb

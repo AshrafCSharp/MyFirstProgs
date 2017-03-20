@@ -1,0 +1,5 @@
+D:\ProgramData\C#\GlobalVariable\GlobalVariable\bin\Debug\GlobalVariable.exe.config
+D:\ProgramData\C#\GlobalVariable\GlobalVariable\bin\Debug\GlobalVariable.exe
+D:\ProgramData\C#\GlobalVariable\GlobalVariable\bin\Debug\GlobalVariable.pdb
+D:\ProgramData\C#\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.exe
+D:\ProgramData\C#\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.pdb

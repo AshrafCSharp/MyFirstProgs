@@ -1,0 +1,6 @@
+D:\ProgramData\C#\RefranceValue\RefranceValue\bin\Debug\RefranceValue.exe.config
+D:\ProgramData\C#\RefranceValue\RefranceValue\bin\Debug\RefranceValue.exe
+D:\ProgramData\C#\RefranceValue\RefranceValue\bin\Debug\RefranceValue.pdb
+D:\ProgramData\C#\RefranceValue\RefranceValue\obj\Debug\RefranceValue.csprojResolveAssemblyReference.cache
+D:\ProgramData\C#\RefranceValue\RefranceValue\obj\Debug\RefranceValue.exe
+D:\ProgramData\C#\RefranceValue\RefranceValue\obj\Debug\RefranceValue.pdb

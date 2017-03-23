@@ -1,0 +1,6 @@
+D:\ProgramData\C#\OptionalValues\OptionalValues\bin\Debug\OptionalValues.exe.config
+D:\ProgramData\C#\OptionalValues\OptionalValues\bin\Debug\OptionalValues.exe
+D:\ProgramData\C#\OptionalValues\OptionalValues\bin\Debug\OptionalValues.pdb
+D:\ProgramData\C#\OptionalValues\OptionalValues\obj\Debug\OptionalValues.csprojResolveAssemblyReference.cache
+D:\ProgramData\C#\OptionalValues\OptionalValues\obj\Debug\OptionalValues.exe
+D:\ProgramData\C#\OptionalValues\OptionalValues\obj\Debug\OptionalValues.pdb
